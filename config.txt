@@ -1,0 +1,6 @@
+owner=544499691132289034
+prefix=F
+game= Fhelp _ Fplay
+stayinchannel=true
+songinstatus=false
+token=NTYxMjQ1ODMzODUzNDAzMTUy.D3_shg.yUh85eldHmNg_xTL2AufznQpeuw
